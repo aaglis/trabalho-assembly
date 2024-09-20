@@ -6,5 +6,5 @@ _Receber um valor(em segundos), e retornar mostrando em dias, horas, minutos e s
 ## Pré-visualização
 
 <p align="center">
-    <img width="375px" height="665px" src="assets/preview.gif">
+    <img width="700px" height="400px" src="assets/preview.gif">
 </p>
